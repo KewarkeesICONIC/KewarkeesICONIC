@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KewarkeesICONIC
-- 👀 I’m interested in performance & data analysis
-- 📚 I’m currently working on building a worker performance management system based on budget KPIs
+- 📚 Data Analyst @ THE ICONIC
 - 📫 kewarkees.shamuel@theiconic.com.au
 
 <!---
